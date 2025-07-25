@@ -1,143 +1,124 @@
 <div align="center">
-  <a href="https://github.com/amoghbakshii">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB2d2dtaTVpcjF3eGZocjZmMjd0ZzR6c3hpb3NqZ3Z5Znh2N2w0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="150px" />
-  </a>
-  <h1>
-    Hey there, I'm Amogh Bakshi!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  </h1>
-</div>
-
-<div align="center">
-  <a href="mailto:amoghbakshi667@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/amoghbakshii">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/amogh-bakshi/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-
-### <p align="center">About Me</p>
-
-<p align="center">
-  I'm a passionate and driven <strong>full-stack developer</strong> with a knack for turning complex problems into elegant, efficient, and scalable solutions. My journey in tech is fueled by a desire to build products that not only work flawlessly but also have a tangible, positive impact. I am currently honing my skills in web development and AI at Christ University, and I am actively seeking a <strong>Software Development Engineer internship</strong> where I can contribute to building the future, one line of code at a time.
+<h1>
+Amogh Bakshi
+</h1>
+<p>
+<strong>Aspiring Software Engineer | Full-Stack & Backend Development</strong>
 </p>
 
-<div align="center">
-
-| 👨‍💻 **Role** | 🤖 **AI Enthusiast** | 🚀 **Driven by Impact** | 🎓 **Education** |
-| --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Web Development Intern at <strong>Sedna Infosystems</strong>, where I engineered responsive frontends and robust backends. | I love exploring the potential of AI and have built tools using the <strong>Gemini API</strong> to automate tasks. | I thrive in fast-paced environments and am committed to writing clean and well-documented code. | Pursuing a BCA (Hons.) at <strong>Christ University, Delhi NCR</strong> (Expected 2026). |
-
+<p>
+<a href="mailto:amoghworkofficial@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/amoghbakshii">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/amoghbakshii">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
 </div>
 
----
+About Me
+I am an aspiring Software Engineer with strong foundations in Data Structures, Algorithms, and core CS concepts. My experience lies in building scalable, production-grade full-stack applications using Node.js, React, and cloud-native tools like AWS and Docker. I am passionate about backend engineering, distributed systems, and building reliable software at scale. I am actively seeking a Software Engineer internship where I can contribute to impactful projects and continue to grow my skills.
 
-### <p align="center">My Tech Arsenal 💻</p>
-
+Technical Skills
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="33%">
-        <strong>Frontend</strong><br><br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,js" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>Backend</strong><br><br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,cs,dotnet" />
-        </a>
-      </td>
-      <td align="center" width="33%">
-        <strong>Tools & Platforms</strong><br><br>
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=git,postman,github,vscode" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### <p align="center">My Projects 🚀</p>
-
-<div align="center">
-
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 8px; height: 100%;">
-        <h3 align="center">✈️ Wanderlust</h3>
-        <p>A full-stack travel planning application that allows users to discover and book accommodations. Features secure image uploads and an interactive map interface.</p>
-        <p><strong>Tech Stack:</strong> MERN Stack, Mapbox API, Cloudinary, Multer</p>
-        <p align="center">
-          <a href="https://github.com/amoghbakshii/Wanderlust">
-            <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 8px; height: 100%;">
-        <h3 align="center">🤖 InboxAgent</h3>
-        <p>An intelligent web tool that leverages the Gemini API to provide concise summaries of long emails, boosting productivity for users.</p>
-        <p><strong>Tech Stack:</strong> Node.js, Express.js, Gemini API</p>
-        <p align="center">
-          <a href="https://github.com/amoghbakshii/InboxAgent">
-            <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 8px; height: 100%;">
-        <h3 align="center">☀️ WeatherSense</h3>
-        <p>A C# .NET desktop application that provides real-time weather data using a live API and stores user search history in a local SQL database.</p>
-        <p><strong>Tech Stack:</strong> C#, .NET, SQL, REST API</p>
-        <p align="center">
-          <a href="https://github.com/amoghbakshii/WeatherSense">
-            <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin: 8px; height: 100%;">
-        <h3 align="center">🏢 Sedna Website</h3>
-        <p>Led the redesign and deployment of the official corporate website for Sedna Infosystems, focusing on mobile-first design and SEO optimization.</p>
-        <p><strong>Tech Stack:</strong> HTML, CSS, Bootstrap, JavaScript</p>
-        <p align="center">
-          <a href="https://sednainfosystems.com/"> <img src="https://img.shields.io/badge/Live-Site-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-          </a>
-        </p>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="33%">
+<strong>Languages</strong><br><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=javascript,java,cs,mysql" />
+</a>
+</td>
+<td align="center" width="33%">
+<strong>Web & Frameworks</strong><br><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,react,express,dotnet,tailwind" />
+</a>
+</td>
+<td align="center" width="33%">
+<strong>Databases & Cloud</strong><br><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,docker" />
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<strong>Tools & Platforms</strong><br><br>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,actions" />
+</a>
+</td>
+<td align="center" width="33%">
+<strong>Core Concepts</strong><br><br>
+Data Structures & Algorithms, OOP, OS, DBMS, Computer Networks, System Design
+</td>
+<td align="center" width="33%">
+<strong>AI/ML</strong><br><br>
+Gemini API, Google AI Studio, Python
+</td>
+</tr>
 </table>
-
 </div>
 
----
-
-### <p align="center">My GitHub Activity 📊</p>
-
+Featured Projects
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=amoghbakshii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Amogh's GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amoghbakshii&theme=tokyonight" alt="Amogh's GitHub Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoghbakshii&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; height: 100%;">
+<h3 align="center">Code Sensei</h3>
+<p>AI-powered code analysis tool providing performance insights, security checks, and complexity evaluations with a clean UI and instant multi-language support.</p>
+<p><strong>Tech:</strong> React, Python, FastAPI, Tailwind, Vercel, Gemini API</p>
+<p align="center">
+<a href="https://github.com/amoghbakshii/CodeSensei">
+<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
 </div>
+</td>
+<td width="50%" valign="top">
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; height: 100%;">
+<h3 align="center">VastuScan</h3>
+<p>Full-stack Vastu consultation platform featuring secure Google OAuth, an interactive dashboard with map-based filtering, and a complete booking system.</p>
+<p><strong>Tech:</strong> Node.js, MongoDB, EJS, Mapbox API</p>
+<p align="center">
+<a href="https://github.com/amoghbakshii/VastuScan">
+<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; height: 100%;">
+<h3 align="center">InboxAgent</h3>
+<p>An AI-powered email summarizer using the Gemini API to reduce manual email reading time by up to 80%.</p>
+<p><strong>Tech:</strong> Node.js, Express.js, Google AI Studio</p>
+<p align="center">
+<a href="https://github.com/amoghbakshii/InboxAgent">
+<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+</div>
+</td>
+<td width="50%" valign="top">
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; height: 100%;">
+<h3 align="center">Wanderlust</h3>
+<p>A travel itinerary application with Mapbox and Cloudinary integration for dynamic trip planning, discovery, and booking.</p>
+<p><strong>Tech:</strong> Node.js, MongoDB, Cloudinary</p>
+<p align="center">
+<a href="https://github.com/amoghbakshii/Wanderlust">
+<img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github"/>
+</a>
+</p>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
