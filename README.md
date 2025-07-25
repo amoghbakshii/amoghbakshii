@@ -19,8 +19,8 @@ Amogh Bakshi
 </p>
 </div>
 
-About Me
-I am an aspiring Software Engineer with strong foundations in Data Structures, Algorithms, and core CS concepts. My experience lies in building scalable, production-grade full-stack applications using Node.js, React, and cloud-native tools like AWS and Docker. I am passionate about backend engineering, distributed systems, and building reliable software at scale. I am actively seeking a Software Engineer internship where I can contribute to impactful projects and continue to grow my skills.
+
+An aspiring Software Engineer with strong foundations in Data Structures, Algorithms, and core CS concepts. My experience lies in building scalable, production-grade full-stack applications using Node.js, React, and cloud-native tools like AWS and Docker. I am passionate about backend engineering, distributed systems, and building reliable software at scale. I am actively seeking a Software Engineer internship where I can contribute to impactful projects and continue to grow my skills.
 
 Technical Skills
 <div align="center">
